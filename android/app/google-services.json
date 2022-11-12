@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712971325029",
+    "project_id": "setdaytime-ce4c0",
+    "storage_bucket": "setdaytime-ce4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712971325029:android:f36f0a9efc5a0cc531c08c",
+        "android_client_info": {
+          "package_name": "com.setdaytime.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712971325029-vqo5mi87e0glh4uu4ugo7alj67rscvs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.setdaytime.booking",
+            "certificate_hash": "63ac6bc040b75912ce629331db25a2e8cd62bbee"
+          }
+        },
+        {
+          "client_id": "712971325029-eckklvgcpk5vodktmv0b8020099mdg5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtE_VKNBKE7Q41_HARPCjF9l14l31YSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712971325029-eckklvgcpk5vodktmv0b8020099mdg5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
